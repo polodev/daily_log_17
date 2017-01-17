@@ -1,0 +1,5 @@
+january 17 tue
+===============s
+today I have included some react native rotation for sync button. I have attached file with this. 
+style={{transform: [{rotate: spin}]}}
+here spin actually do the rotation thing
